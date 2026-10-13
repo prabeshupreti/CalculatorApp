@@ -3,6 +3,7 @@ using CalculatorApp;
 
 int A, B, Result = 0;
 
+
 Console.WriteLine("Enter the first number:");
 A = int.Parse(Console.ReadLine());
 
